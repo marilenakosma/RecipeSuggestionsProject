@@ -38,6 +38,19 @@ A full-stack web application for managing recipes and getting recipe suggestions
 
 ---
 ## Screenshots
+
+### Home Page
+![Home](screenshots/Home.png)
+
+### Add Recipe
+![Add Recipe](screenshots/Add.png)
+
+### View Recipes
+![View Recipes](screenshots/View.png)
+
+### Edit Recipes
+![Edit Recipes](screenshots/Edit.png)
+
 ---
 
 ## 📄 License
