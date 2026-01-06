@@ -20,13 +20,13 @@ A full-stack web application for managing recipes and getting recipe suggestions
 ## 🛠 Tech Stack
 
 ### Backend
-- **Framework**: ASP.NET Core 8.0
+- **Framework**: ASP.NET Core 
 - **Database**: PostgreSQL with Entity Framework Core
-- **ORM**: Entity Framework Core 8.0
+- **ORM**: Entity Framework 
 - **API Documentation**: Swagger/OpenAPI
 
 ### Frontend
-- **Framework**: Vue.js 3
+- **Framework**: Vue.js 
 - **Build Tool**: Vite
 - **Routing**: Vue Router
 - **HTTP Client**: Fetch API
