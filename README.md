@@ -2,6 +2,15 @@
 
 A full-stack web application for managing recipes and getting recipe suggestions based on available ingredients. Built with ASP.NET Core and Vue.js ,created collaboratively as part of Special Topics in Software Engineering class.
 
+## 👥 Authors
+
+- **Evangelos Spyropoulos**
+- **Chen JinFei**
+- **Marilena Kosma**
+- **Theofania Livanidi**
+
+Copyright © 2023-2024
+
 ##  Features
 
 - **Recipe Management**
@@ -57,11 +66,3 @@ A full-stack web application for managing recipes and getting recipe suggestions
 
 This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
 
-## 👥 Authors
-
-- **Evangelos Spyropoulos**
-- **Chen JinFei**
-- **Marilena Kosma**
-- **Theofania Livanidi**
-
-Copyright © 2023-2024
