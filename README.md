@@ -1,6 +1,6 @@
 # Recipe Suggestions Project
 
-A full-stack web application for managing recipes and getting recipe suggestions based on available ingredients. Built with ASP.NET Core and Vue.js ,created collaboratively as part of Special Topics in Software Engineering class.
+A full-stack web application for managing recipes and getting recipe suggestions based on available ingredients. Built with ASP.NET Core and Vue.js,created collaboratively as part of "Special Topics in Software Engineering" class.
 
 ## 👥 Authors
 
@@ -28,23 +28,11 @@ Copyright © 2023-2024
 
 ## 🛠 Tech Stack
 
-### Backend
-- **Framework**: ASP.NET Core 
+- **Frontend**: Vue.js 
+- **Backend**: ASP.NET Core 
 - **Database**: PostgreSQL with Entity Framework Core
 - **ORM**: Entity Framework 
 - **API Documentation**: Swagger/OpenAPI
-
-### Frontend
-- **Framework**: Vue.js 
-- **Build Tool**: Vite
-- **Routing**: Vue Router
-- **HTTP Client**: Fetch API
-
-### Database Providers Supported
-- PostgreSQL (Primary)
-- SQL Server
-- In-Memory (For testing)
-
 ---
 ## Screenshots
 
